@@ -1,0 +1,26 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:IMS_ChienDB/IMS_ChienDB/obj/Debug/net6.0/IMS_ChienDB.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = IMS_ChienDB
+build_property.RootNamespace = IMS_ChienDB
+build_property.ProjectDir = D:\WEB\IMS_CodeFirst\IMS_ChienDB\IMS_ChienDB\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WEB\IMS_CodeFirst\IMS_ChienDB\IMS_ChienDB
+=======
+build_property.RootNamespace = IMS_Chien
+build_property.RootNamespace = IMS_Chien
+build_property.ProjectDir = D:\Document\Intern\IMS_CodeFirst\IMS_Chien\IMS_Chien\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Document\Intern\IMS_CodeFirst\IMS_Chien\IMS_Chien
+>>>>>>> 88e0cb031ee436d37191986219ce82e784692da9:IMS_Chien/IMS_Chien/obj/Debug/net6.0/IMS_Chien.GeneratedMSBuildEditorConfig.editorconfig
+build_property._RazorSourceGeneratorDebug = 
